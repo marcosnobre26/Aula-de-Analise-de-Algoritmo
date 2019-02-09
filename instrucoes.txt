@@ -1,0 +1,1 @@
+Execute cada um dos arquivos PHP. Cada um deles corresponde a um arquivo CSV e mostra o maior numero e o tempo de execução
